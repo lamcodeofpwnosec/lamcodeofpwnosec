@@ -54,6 +54,33 @@ The list of blog posts below has something to do with my research in the field o
 - ⭐ [Starling Bank Limited - 2019](https://hackerone.com/starling_bank/thanks/2019) 
 <sup>* try saying <em>that</em> ten times fast!</sup>
 
+### Social Media & Contact
+- 📧 **Email:** [github@lamcodeofandri.com](mailto:github@lamcodeofandri.com)
+- 🔗 **LinkedIn:** [linkedin.com/in/t-andri-research](https://www.linkedin.com/in/t-andri-research)
+- 📷 **Instagram:** [instagram.com/research](https://instagram.com/youryreborn)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+
+<div align="center">
+<a href="https://github.com/lamcodeofpwnosec">
+<div>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lamcodeofpwnosec&theme=aura" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lamcodeofpwnosec&theme=aura" height="180em" />
+</div>
+<div>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lamcodeofpwnosec&theme=aura" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lamcodeofpwnosec&theme=aura" height="180em" />
+</div>
+<div>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lamcodeofpwnosec&theme=aura" height="180em" />
+</div>
+<div>
+  <img align="center" src="https://visitcount.itsvg.in/api?id=lamcodeofpwnosec&label=Profile%20Views&color=6&icon=4&pretty=true" height="20em" />
+</div>
+</a>
+</div>
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 
 
