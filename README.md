@@ -55,8 +55,8 @@ The list of blog posts below has something to do with my research in the field o
 <sup>* try saying <em>that</em> ten times fast!</sup>
 
 ### Social Media & Contact
-- 📧 **Email:** [github@lamcodeofandri.com](mailto:github@lamcodeofandri.com)
-- 🔗 **LinkedIn:** [linkedin.com/in/t-andri-research](https://www.linkedin.com/in/t-andri-research)
+- 📧 **Email:** [github@securityuniverse.id](mailto:github@securityuniverse.id)
+- 🔗 **LinkedIn:** [linkedin.com/in/t-andri-research](https://www.linkedin.com/in/securewithandri/)
 - 📷 **Instagram:** [instagram.com/research](https://instagram.com/youryreborn)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
