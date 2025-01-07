@@ -6,20 +6,7 @@
 
 <table>
   <tr>
-    <td width="50%"><a href="https://www.pwn0sec.com/"><img width="100%" src="https://i.ibb.co.com/nBTTwbX/wqewqeqw.png"></a><br><sup><strong>Website:</strong> PT. Pwn0sec Technologies Ltd.</sup>
-    <td width="50%"><a href="https://youtu.be/bUdXsgexZm0"><img width="100%" src="https://i.ibb.co.com/KKKVcSx/pemprovdk.png"></a><br><sup><strong>Product launch:</strong> PWN CLI 1.0 - Sistem Informasi Registrasi ASN/PNS</sup></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://hackerboard.pwn0sec.com/"><img width="100%" src="https://user-images.githubusercontent.com/121322/154590949-3ce5dd7e-2a51-46da-973d-3375c91d8d3c.gif"></a><br><sup><strong>EpicGames:</strong> Cyber Security Research</sup></td>
-    <td width="50%"><a href="https://hackerone.com/offensiveops"><img width="100%" src="https://www.hackerone.com/sites/default/files/blog-images/9.jpg"></a><br><sup><strong>H1-415 San Francisco Live Hacking Event.</strong> HackerOne Researcher</sup></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href=""><img width="100%" src="https://user-images.githubusercontent.com/121322/131424175-5150da6e-ccc7-4da3-b949-6654eec0b3dc.gif"></a><br><sup><strong>Video:</strong> NASA JPL</sup></td>
-    <td width="50%"><a href="https://ctf.hacker101.com/"><img width="100%" src="https://www.hackerone.com/sites/default/files/inline-images/CTF.png"></a><br><sup><strong>Hacker101:</strong> HackerOne CTF</sup></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href=""><img width="100%" src="https://i.ytimg.com/vi/PSmidKIDGgo/maxresdefault.jpg"></a><br><sup><strong>Video:</strong> Epic Games & Unreal Engine Security Researcher</sup></td>
-    <td width="50%"><a href=""><img width="100%" src="https://academy.pwn0sec.com/Project-images/maintance.png"></a><br><sup><strong>Engineer:</strong> Pwn0sec Enterprise</sup></td>
+    <td width="50%"><a href="https://youtu.be/bUdXsgexZm0"><img width="100%" src="https://i.ibb.co.com/KKKVcSx/pemprovdk.png"></a><br><sup><strong>SIRAP AUTOMATION PROJECT</strong> </sup></td>
   </tr>
 </table>
 
