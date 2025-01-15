@@ -32,13 +32,7 @@ The list of blog posts below has something to do with my research in the field o
 <!--END_SECTION:feed-->
 
 ### Recent Hall of Fame (HoF) | Bug Bounty Journey.
-- ⭐ [U.S. Dept Of Defense - 2019](https://hackerone.com/deptofdefense/thanks/2019)
-- ⭐ [IBM - 2019](https://hackerone.com/ibm/thanks/2019)
-- ⭐ [Grab - 2022](https://hackerone.com/grab/thanks/2022)
-- ⭐ [Stanford University - 2022](https://hackerone.com/stanford-university/thanks/2022)
-- ⭐ [Wells Fargo - 2019](https://hackerone.com/wellsfargo/thanks/2019)
-- ⭐ [Brave Software - 2020](https://hackerone.com/brave/thanks/2020)
-- ⭐ [Starling Bank Limited - 2019](https://hackerone.com/starling_bank/thanks/2019) 
+- ⭐ [IBM - 2019](https://www.ibm.com/support/pages/ibm-product-security-incident-response-team-news)
 <sup>* try saying <em>that</em> ten times fast!</sup>
 
 ### Social Media & Contact
