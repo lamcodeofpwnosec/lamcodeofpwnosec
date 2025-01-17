@@ -31,10 +31,6 @@ The list of blog posts below has something to do with my research in the field o
 * [Arbitrary Code Execution Toyota — Oracle Forms and Reports](https://pwn0sec.medium.com/arbitrary-code-execution-toyota-oracle-forms-and-reports-716b6067d5a5)
 <!--END_SECTION:feed-->
 
-### Recent Hall of Fame (HoF) | Bug Bounty Journey.
-- ⭐ [IBM - 2019](https://www.ibm.com/support/pages/ibm-product-security-incident-response-team-news)
-<sup>* try saying <em>that</em> ten times fast!</sup>
-
 ### Social Media & Contact
 - 📧 **Email:** [github@securityuniverse.id](mailto:github@securityuniverse.id)
 - 🔗 **LinkedIn:** [linkedin.com/in/t-andri-research](https://www.linkedin.com/in/securewithandri/)
